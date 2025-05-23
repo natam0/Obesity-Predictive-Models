@@ -1,3 +1,3 @@
-Refer to the project proposal file for the background and aim of the project.
+This project explores the prediction and analysis of obesity levels based on individual demographic, lifestyle, and eating habit data. Using a dataset of 2,111 observations, the project involves data preprocessing, exploratory data analysis, hypothesis testing, and the development of multiple machine learning models including logistic regression, random forest, and XGBoost. Key features include BMI, age, physical activity, dietary patterns, and more. The goal is to understand factors influencing obesity and build predictive models to classify individuals into obesity categories with high accuracy. This work aims to contribute insights toward health monitoring and early risk identification.
 
 Find my full project [HERE](https://rpubs.com/natam0/DA6813_obesity)
